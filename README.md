@@ -6,7 +6,7 @@ Product Catalogue is a high-performance Single Page Application (SPA) designed w
 ## 🚀 Try It Live
 
 Dive in and explore the application deployed via GitHub Pages:
-<--
+
 [[Demo Deployment](https://linado1609.github.io/product_catalogue/)]
 
 ## 🚀 Technology Stack:
@@ -28,8 +28,7 @@ Dive in and explore the application deployed via GitHub Pages:
 
 **Clone the repository:**
 
-*git clone https://github.com/LinaDo1609/product_catalogue.git*
-<-- 
+*git clone https://github.com/LinaDo1609/product_catalogue.git*. <--
 *cd project-name*
 
 **Install dependencies:**
