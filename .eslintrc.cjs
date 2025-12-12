@@ -43,6 +43,7 @@ module.exports = {
     'prefer-const': 2,
     curly: [2, 'all'],
     'max-len': ['error', {
+      "code": 100,
       ignoreTemplateLiterals: true,
       ignoreComments: true,
     }],
@@ -89,6 +90,7 @@ module.exports = {
     // Typescript
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
+     '@typescript-eslint/no-unused-expressions': 'off', 
     '@typescript-eslint/no-unused-vars': ['error'],
     '@typescript-eslint/indent': ['error', 2],
     '@typescript-eslint/ban-types': ['error', {
