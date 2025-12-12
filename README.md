@@ -28,8 +28,7 @@ Dive in and explore the application deployed via GitHub Pages:
 
 **Clone the repository:**
 
-*git clone https://github.com/LinaDo1609/product_catalogue.git*. <--
-*cd project-name*
+*git clone https://github.com/LinaDo1609/product_catalogue.git*. 
 
 **Install dependencies:**
 
