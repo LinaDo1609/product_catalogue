@@ -2,43 +2,42 @@
 # 📱 React Product Catalog
 
 Product Catalogue is a high-performance Single Page Application (SPA) designed with a clean, contemporary, and minimalist aesthetic, specifically optimized for a seamless viewing experience on phone devices. The application features comprehensive product details, including full technical specifications, along with interactive options for selecting different models and color variants. Users can fully engage with the catalogue by seamlessly adding items to a Shopping Cart or saving favorites to a Wishlist.
----
 
-[![Demo Deployment](https://linado1609.github.io/product_catalogue/)]
----
+## 🚀 Try It Live
+
+Dive in and explore the application deployed via GitHub Pages:
+[[Demo Deployment](https://linado1609.github.io/product_catalogue/)]
 
 ## 🚀 Technology Stack:
 
-Core:
+**Core:**
 * Typescript,
 * React
 * SCSS
 
-UI/UX:
+**UI/UX:**
 * React Router
 * Swiper
 
-Development & Deployment
+**Development & Deployment**
 * Vite
 * ESLint
-
----
 
 ## ⚙️ Installation and Setup
 
 **Clone the repository:**
 
-git clone https://github.com/LinaDo1609/product_catalogue.git
-cd project-name
+*git clone https://github.com/LinaDo1609/product_catalogue.git*
+*cd project-name*
 
 **Install dependencies:**
 
-npm install or yarn install
+*npm install or yarn install*
 
 **Run the project locally:**
 
-npm start or yarn start
----
+*npm start or yarn start*
+
 
 ## ✨ Features
 
